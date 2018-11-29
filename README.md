@@ -1,11 +1,9 @@
 ## microstackshot
-----
-Microscope knob control pwered by arduino
+Microscope knob control powered by arduino
 
-#Parts
-
+# Parts
  - Arduino Leonardo
  - Arduino shield
  - IR remote and receiver
- - Stepper motor with gear reduction 28YBJ-48
+ - Stepper motor with gear reduction 28YBJ-48 and driver
  - LCD screen with I2C interface
