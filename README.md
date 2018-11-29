@@ -1,6 +1,9 @@
 # Microstackshot
 Microscope knob control powered by arduino designed for micro-stackshot photography
 
+# DOCS
+https://docs.google.com/document/d/1P0xk68gPNNNN-_sJicLlXlUDtDGnBVffxkr5Wj0we30/edit#
+
 # Parts
  - Arduino Leonardo
  - Arduino shield
