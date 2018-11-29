@@ -11,4 +11,4 @@ https://docs.google.com/document/d/1P0xk68gPNNNN-_sJicLlXlUDtDGnBVffxkr5Wj0we30/
  - Stepper motor with gear reduction 28YBJ-48 and driver
  - LCD screen with I2C interface
  
-!(microstackshot_20181026_173840.jpg)
+![photo](microstackshot_20181026_173840.jpg)
