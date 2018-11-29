@@ -1,2 +1,2 @@
 # microstackshot
-Microscope knob control
+Microscope knob control pwered by arduino
