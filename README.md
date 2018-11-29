@@ -1,5 +1,5 @@
-## microstackshot
-Microscope knob control powered by arduino
+# Microstackshot
+Microscope knob control powered by arduino designed for micro-stackshot photography
 
 # Parts
  - Arduino Leonardo
